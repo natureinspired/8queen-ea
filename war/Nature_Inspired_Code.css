@@ -1,0 +1,61 @@
+/** Add css rules here for your application. */
+	/** Example rules used by the template application (remove for your app) */
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 20px 0px 20px;
+	text-align: center;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;	
+	text-align: center;
+}
+
+p {
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+.refreshBtn {
+	padding-left: 300px;
+}
+
+tr {
+	margin: 0px;
+	padding: 0px;
+}
+
+.menuTable {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #777777;
+	height: 550px;
+	width: 550px;
+	text-align: center;
+}
+
+.white {
+	background-color: white;
+	width: 68px;
+	height: 68px;
+}
+
+.black {
+	background-color: #777777;
+	width: 68px;
+	height: 68px;	
+}
+
+.menuPanel {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sendButton {
+	display: block;
+	font-size: 16pt;
+}
